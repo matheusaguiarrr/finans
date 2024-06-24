@@ -1,9 +1,8 @@
 <h1 align="center" style="font-weight: bold;">🪙 Finans</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
+ <a href="#tech">Tecnologias</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
 </p>
 
@@ -22,7 +21,7 @@
     <img src="https://github.com/matheusaguiarrr/finans/assets/106553412/3c304779-fbd3-4d46-bc5c-0f34daa2c04a" alt="" width="400px">
 </p>
 
-<h2 id="technologies">💻 Tecnologias</h2>
+<h2 id="tech">💻 Tecnologias</h2>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <br>
@@ -46,7 +45,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/matheusaguiarrr/finans.git
 ```
 
 <h3>Starting</h3>
@@ -54,8 +53,7 @@ git clone your-project-url-in-github
 How to start your project
 
 ```bash
-cd project-name
-npm some-command-to-run
+cd finans
 ```
 
 <h2 id="contribute">📫 Contribute</h2>
