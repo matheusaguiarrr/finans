@@ -1,9 +1,10 @@
 <h1 align="center" style="font-weight: bold;">🪙 Finans</h1>
 
 <p align="center">
- <a href="#tech">Tecnologias</a> • 
- <a href="#started">Getting Started</a> • 
- <a href="#contribute">Contribute</a>
+ • <a href="#tech">Tecnologias</a> • 
+ <a href="#started">Executando na sua máquina</a> • 
+ <a href="#contribute">Contribuindo</a> • 
+ <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
+     <a href="PROJECT__URL">📱 Visite o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
@@ -29,44 +30,45 @@
   <br>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started">🚀 Executando o projeto na sua máquina local</h2>
 
-Here you describe how to run your project locally
+<h3>Pré-requisitos</h3>
 
-<h3>Prerequisites</h3>
+- [Git](https://github.com)
+- [Live Server](https://www.freecodecamp.org/portuguese/news/live-server-no-vs-code-como-atualizar-automaticamente-o-seu-navegador-com-essa-extensao-simples/)
 
-Here you list all prerequisites necessary for running your project. For example:
+<h3>Clonando</h3>
 
-
-- [Git 2](https://github.com)
-
-<h3>Cloning</h3>
-
-How to clone your project
+Como clonar o projeto:
 
 ```bash
 git clone https://github.com/matheusaguiarrr/finans.git
 ```
 
-<h3>Starting</h3>
+<h3>Começando</h3>
 
-How to start your project
+Como começar o projeto:
 
 ```bash
 cd finans
 ```
 
-<h2 id="contribute">📫 Contribute</h2>
+<h2 id="contribute">📫 Contribuindo</h2>
+Contribuições são bem-vindas! 
+Se você encontrar problemas, bugs ou tiver sugestões para melhorias.
+Como contribuir:
 
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+1. `git clone https://github.com/matheusaguiarrr/finans.git`
 2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+3. Siga as commit patterns
+4. Crie um pull request.
 
-<h3>Documentations that might help</h3>
+<h3>Documentações que podem ajudar</h3>
 
-[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+[📝 Como criar um Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
 [💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+<h2 id="license">📝 Licença</h2>
+
+Este projeto está sob a licença [MIT](LICENSE) license
