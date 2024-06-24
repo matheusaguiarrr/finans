@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-     <a href="https://matheusaguiarrr.github.io/finans/">📱 Visite o projeto</a>
+     <a href="https://matheusaguiarrr.github.io/finans/" target="_blank">📱 Visite o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
